@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+Test_chatbot/
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model / cache files
+*.dll
+*.pyd
+*.so
+
+# Vector DB (optional – keep if you want)
+# vector_store/
